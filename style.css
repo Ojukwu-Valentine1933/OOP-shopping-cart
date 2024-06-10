@@ -1,0 +1,12 @@
+body{
+    font-family: "Kumbh Sans", sans-serif;
+}
+.purchase-section .btn{
+    background-color: hsl(26, 100%, 55%);
+    text-decoration: none;
+    color: white;
+}
+
+form .btn{
+    background-color: hsl(26, 100%, 55%) !important;
+}
