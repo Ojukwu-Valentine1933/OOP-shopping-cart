@@ -1,0 +1,14 @@
+.payment-method button{
+    background-color: hsl(26, 100%, 55%);
+    text-decoration: none;
+    color: white;
+    margin-top: 20px;
+}
+
+form .btn{
+    background-color: hsl(26, 100%, 55%) !important;
+}
+.payment-icons img{
+    height: 50px;
+    width: 70px;
+}

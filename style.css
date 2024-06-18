@@ -10,3 +10,34 @@ body{
 form .btn{
     background-color: hsl(26, 100%, 55%) !important;
 }
+#color{
+    
+    font-size: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#color-box {
+    width: 35px;
+    height: 20px;
+    background-color: #808080; /* Default color */
+    /* border-radius: 20px; */
+
+}
+
+#change-color-btn {
+   width: 35px;
+   height: 20px;
+    font-size: 10px;
+   /* margin-top: 10px; */
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#change-color-btn:hover {
+    background-color: #0056b3;
+}
